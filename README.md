@@ -1,7 +1,7 @@
 # biomedical-ai
 Machine learning for application in biology and medicine. 
 
-## 1. medical_question_llm.ipynb
+## medical_question_llm.ipynb
 
 See this notebook for a showcase of how to finetune a state of the art open source Large Language Model (Mistral) to solve Medical Questions using 'MedMCQA : A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering'.
 
